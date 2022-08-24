@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chinedu Harry Achugasim
+- 👋 Hi, I’m Chinedu Harry Achugasim (Flutter | React Native Mobile Application Developer)
 - 👀 I’m interested in solving problems leveraging technology.
 - 🌱 I’m currently learning digital Transformation
 - 💞️ I’m looking to collaborate on mobile Application Development Projects. 
